@@ -1,0 +1,7 @@
+MonitorLed   	KEYWORD1
+on		KEYWORD2
+off		KEYWORD2
+blink		KEYWORD2
+WifiWebServer	KEYWORD1
+
+
