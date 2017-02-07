@@ -4,5 +4,3 @@ IrriguinoWeatherLogger is a sketch for Arduino, for watering plants and measurin
 For more details, see http://www.servicemix.eu/_ARDUINO/IrriguinoWeatherStation/ 
 
 This branch/tag is actually the prototype's legacy source code, from version "IrriguinoWeather0015".
-
-Those source files are in plain old ArduinoIde-style, it's not the eclipse-ed version yet, which is branch "IrriguinoWeather0016", also an import of the prototype legacy code.
